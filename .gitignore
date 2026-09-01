@@ -1,0 +1,17 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Local development
+.env
+.env.*
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
