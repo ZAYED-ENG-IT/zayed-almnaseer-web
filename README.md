@@ -48,6 +48,7 @@ The included GitHub Actions workflow deploys the site to GitHub Pages whenever t
 
 - GitHub: [@ZAYED-ENG-IT](https://github.com/ZAYED-ENG-IT)
 - LinkedIn: [Zayed Al-Mnaseer](https://www.linkedin.com/in/%D8%B2%D8%A7%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B5%D9%8A%D8%B1-1812b3387/)
+- Instagram: [@z.7.2011](https://www.instagram.com/z.7.2011/)
 - Email: [zayed.eng.it@gmail.com](mailto:zayed.eng.it@gmail.com)
 
 ## Usage | الاستخدام
