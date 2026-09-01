@@ -2,7 +2,7 @@
 
 A bilingual developer portfolio showcasing selected projects, technical skills, certificates, and contact links.
 
-**Live website:** [zayed-almnaseer.wasmer.app](https://zayed-almnaseer.wasmer.app/)
+**Live website:** [GitHub Pages](https://zayed-eng-it.github.io/zayed-almnaseer-web/) · [Wasmer Edge](https://zayed-almnaseer.wasmer.app/)
 
 ## Highlights
 
